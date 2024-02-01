@@ -11,16 +11,16 @@ body{
 }
 
 #carouselExample img{
-    height: 900px; 
+    height: 38vmax;
     object-fit: cover;    
 }
 
-.foto1, .foto2{
+.foto1{
     
    object-position: center;   
 }
 
-.foto3{
+.foto3, .foto2{
     object-position: top;
 }
 
