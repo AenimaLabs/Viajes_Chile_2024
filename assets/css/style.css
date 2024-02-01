@@ -10,11 +10,23 @@ body{
     color: white;
 }
 
-#carouselExampleFade img{
+#carouselExample img{
     height: 900px; 
-    object-fit: cover;
+    object-fit: cover;    
+}
+
+.foto1, .foto2{
+    
+   object-position: center;   
+}
+
+.foto3{
     object-position: top;
 }
+
+
+
+
 
 footer a{
     text-decoration: none;
