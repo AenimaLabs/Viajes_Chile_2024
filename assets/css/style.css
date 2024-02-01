@@ -10,6 +10,12 @@ body{
     color: white;
 }
 
+#carouselExampleFade img{
+    height: 900px; 
+    object-fit: cover;
+    object-position: top;
+}
+
 footer a{
     text-decoration: none;
     color: white;
