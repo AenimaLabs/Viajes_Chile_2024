@@ -10,8 +10,14 @@ body{
     color: white;
 }
 
+.navbar{
+    padding-left: 2.5%;
+    padding-right: 2.5%;    
+}
+
+
 #carouselExample img{
-    height: 38vmax;
+    height: 45vmax;
     object-fit: cover;    
 }
 
