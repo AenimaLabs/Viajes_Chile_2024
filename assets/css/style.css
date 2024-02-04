@@ -8,6 +8,7 @@
 body{
     background-color: black;
     color: white;
+    font-family: 'Lato', sans-serif;
 }
 
 .navbar{
@@ -34,10 +35,8 @@ body{
     padding: 3%;
 }
 
-/* esto hace que el scroll quede justo  */
-#destacados{
-    border: 1px solid black;
-    }
+
+
     
 
 .card{
@@ -50,24 +49,26 @@ body{
     height: 200px;
     object-fit: cover;}
 
+.card p{
+    color: whitesmoke;
+    
+}    
 
-#contacto{
-   
-   
-}
 
 #formulario{
    
     margin: 0 auto;
 }
 
-#contacto h1{
-    
-}
+
+
+
 
 
 
 footer a{
     text-decoration: none;
     color: white;
+   
 }
+
