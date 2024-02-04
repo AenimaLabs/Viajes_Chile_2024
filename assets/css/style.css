@@ -21,6 +21,19 @@ body{
     object-fit: cover;    
 }
 
+.foto1{
+    
+   object-position: center;   
+}
+
+.foto3, .foto2{
+    object-position: top;
+}
+
+#tres_columnas, i{
+    padding: 3%;
+}
+
 /* esto hace que el scroll quede justo  */
 #destacados{
     border: 1px solid black;
@@ -35,23 +48,22 @@ body{
 
 .card img{
     height: 200px;
-    object-fit: cover;
+    object-fit: cover;}
+
+
+#contacto{
+   
+   
 }
 
-.foto1{
+#formulario{
+   
+    margin: 0 auto;
+}
+
+#contacto h1{
     
-   object-position: center;   
 }
-
-.foto3, .foto2{
-    object-position: top;
-}
-
-#tres_columnas, i{
-    padding: 3%;
-}
-
-
 
 
 
