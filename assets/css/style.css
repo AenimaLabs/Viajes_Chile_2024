@@ -21,6 +21,25 @@ body{
     object-fit: cover;    
 }
 
+/* esto hace que el scroll quede justo  */
+#destacados{
+    border: 1px solid black;
+    }
+    
+
+
+
+.card{
+    padding: 0;
+    border: 1px solid white;
+
+}
+
+.card img{
+    height: 10vmax;
+    object-fit: cover;
+}
+
 .foto1{
     
    object-position: center;   
