@@ -34,6 +34,22 @@ body{
     padding: 3%;
 }
 
+.destacado_cont{
+    border: 1px solid red;
+}
+
+#destacados{
+    border: 1px solid violet
+}
+
+.card{
+    border: 1px solid white;
+}
+
+.card img{
+    height:10vmax;
+    object-fit: cover;
+}
 
 
 
