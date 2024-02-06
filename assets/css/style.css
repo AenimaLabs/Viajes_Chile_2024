@@ -1,79 +1,72 @@
-*{
+* {
     padding: 0;
     margin: 0;
     border: 0;
-    
+
 }
 
-html{
+/* html{
     scroll-behavior: auto !important;
-    /* La opción smooth scroll representa la opción de crear un desplazamiento suave y agradable */
-}
+    La opción smooth scroll representa la opción de crear un desplazamiento suave y agradable
+} */
 
-body{
+body {
     background-color: black;
     color: white;
     font-family: 'Lato', sans-serif;
 }
 
-.navbar{
+.navbar {
     padding-left: 2.5%;
-    padding-right: 2.5%;    
+    padding-right: 2.5%;
 }
 
 
-#carouselExample img{
+#carouselExample img {
     height: 45vmax;
-    object-fit: cover;    
+    object-fit: cover;
 }
 
-.foto1{
-    
-   object-position: center;   
+.foto1 {
+
+    object-position: center;
 }
 
-.foto3, .foto2{
+.foto3,
+.foto2 {
     object-position: top;
 }
 
-#tres_columnas, i{
+#tres_columnas,
+i {
     padding: 3%;
 }
 
-
-
-    
-
-.card{
+.card {
     padding: 0;
     border: 1px solid white;
 
 }
 
-.card img{
+.card img {
     height: 200px;
-    object-fit: cover;}
+    object-fit: cover;
+}
 
-.card p{
+.card p {
     color: whitesmoke;
-    
-}    
+
+}
 
 
-#formulario{
-   
+#formulario {
+
     margin: 0 auto;
 }
 
 
-
-
-
-
-
-footer a{
+footer a {
     text-decoration: none;
     color: white;
-   
-}
 
+}
